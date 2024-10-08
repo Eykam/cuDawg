@@ -1,0 +1,11 @@
+## Things to Deep dive into:
+
+- cudaMalloc
+- cudaFree
+- cudaMemcpy
+- cudaMemcpyHostToDevice
+- cudaMemcpyDeviceToHost
+- threads per block
+- blocks per grid
+
+
