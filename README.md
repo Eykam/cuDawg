@@ -3,7 +3,7 @@
 ## **0. Compiling First CUDA Program**
 - [X] **0.a. Install CUDA Toolkit**
 - [X] **0.b. Write a Simple CUDA Program**
-    - [X]Create a basic `.cu` file containing host and device code.
+    - [X] Create a basic `.cu` file containing host and device code.
 - [X] **0.c. Compile the Program**
     - Use `nvcc` to compile the `.cu` file into an executable.
 - [X] **0.d. Run and Verify**
